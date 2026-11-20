@@ -1,4 +1,4 @@
-# Taller de Cálculo Avanzado 1er. Cuatrimestre 2014 — Primer cuatrimestre de 2014
+# Taller de Cálculo Avanzado — Primer cuatrimestre de 2014
 
 ## Prácticas
 
@@ -11,15 +11,6 @@
 - [Tarea 2](Tarea%202.pdf)
 - [Tarea 3](Tarea%203.pdf)
 - [Tarea 4](Tarea%204.pdf)
-
-## Bibliografía
-
-- S. D. Abbott: Understanding Analysis . Springer-Verlag, New York, 2001.
-- T. Apostol: Mathematical Analysis . Addison Wesley, Massachusetts, 1958.
-- E. L. Lima: Análise Real, Vol.1 . IMPA, Coleção Matemática Universitária, 1999 (4ta. edición).
-- J. Rey Pastor, C. Pi Calleja, C. Trejo: Análisis Matemático , Vol. I y II. Kapelusz, Buenos Aires, 1959.
-- W. Rudin: Principios de Análisis Matemático . Mc Graw-Hill, 1980 (3ra. edición).
-- R. Creighton Buck: Cálculo Superior . McGraw-Hill, Madrid, 1969.
 
 ## Página original
 
